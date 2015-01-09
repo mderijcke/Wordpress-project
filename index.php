@@ -1,4 +1,5 @@
-			<!--Content-->
+<?php get_header(); ?>
+		<!--Content-->
 		<div id="content">
 			<p id="header-title">
 				Welkom
@@ -21,27 +22,10 @@
 			</p>
 		</div>
 
-		<!--Sidebar-->
-		<div id="sidebar"> 
-			<p id="sidebar-title">Laatste berichten</p>
-			<p id="sidebar-paragraph">
-				- Website online
-				<br>
-				- Nieuwe partner
-				<br>
-				- Seminar gepland
-				<br>
-				- Project verlengd
-			</p>
-		</div>
-
-		<div class="clear-both"></div>
-
-		<!--footer-->
-		<footer>
-			<p id="footer-text">Created by IVS Terneuzen in 2013<p> 
-		</footer>
 	</div>
+
+<?php get_sidebar(); ?>
+<?php get_footer(); ?>
 
 </body>
 </html>

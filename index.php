@@ -34,6 +34,8 @@
 		<?php the_category() ?>
 
 		<?php endwhile; ?>
+		<div class="nav-previous alignleft"><?php next_posts_link( 'Oudere berichten' ); ?></div> 
+		<div class="nav-next alignright"><?php previous_posts_link( 'Nieuwere berichten' ); ?></div>
 		</div>
 		<div class="clear-both"></div>
 

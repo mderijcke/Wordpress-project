@@ -35,6 +35,7 @@
 
 		<?php endwhile; ?>
 		</div>
+		<div class="clear-both"></div>
 
 <?php get_footer(); ?>
 

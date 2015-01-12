@@ -20,7 +20,6 @@
 				<?php endif; ?>
 			</div>
 			<?php if ( have_posts() ) while ( have_posts() ) : the_post(); ?>
-			<?php query_posts('&showposts=1&orderby=post_date&order=desc&cat=1'); ?>
 
 			<p id="header-title">
 				<?php the_title(); ?>

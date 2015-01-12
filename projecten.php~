@@ -7,7 +7,7 @@
 
 				global $post;
 
-				$args = array( 'numberposts' => 3, 'offset'=> 0, 'category' => 5 );
+				$args = array( 'numberposts' => 3, 'offset'=> 0, 'category' => 1 );
 
 				$myposts = get_posts( $args );
 

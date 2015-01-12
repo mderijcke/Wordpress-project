@@ -43,15 +43,6 @@
 				Nulla eleifend libero at gravida laoreet. Curabitur consequat, sem vel lacinia fringilla, ipsum risus volutpat velit, nec ornare elit dolor ac velit. Pellentesque at luctus neque. Nulla accumsan laoreet leo a tincidunt. Curabitur scelerisque magna consectetur felis tempor, vel congue massa congue. Integer tincidunt, erat eget laoreet pretium, arcu erat venenatis leo, sit amet laoreet mi turpis sit amet odio. Cras pellentesque blandit volutpat. Fusce velit odio, ornare vel aliquet in, commodo in odio. Praesent pulvinar, lectus at dapibus tempor.
 			</p>
 			-->
-		<?php the_post_thumbnail(); ?>
-
-		<?php the_date() ?>
-
-		<?php the_author() ?>
-
-		<?php the_category() ?>
-
-		<?php endwhile; ?>
 		</div>
 
 <?php get_sidebar(); ?>

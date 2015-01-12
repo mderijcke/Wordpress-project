@@ -146,7 +146,7 @@ header {
 	background-color:#f0eb3c;
 	height: 146px;
 	margin-bottom:16px;
-	background: #F0EB3c url(img/wereld.png) no-repeat right center;
+	background: #F0EB3c url(wereld.png) no-repeat right center;
 }
 #header-text {
 	padding-top: 45px;

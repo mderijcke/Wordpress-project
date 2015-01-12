@@ -12,6 +12,8 @@
 		</header>
 		<!--nav-->
 		<nav>
+			<?php wp_nav_menu( 'sort_column=menu_order&container_id=menu' ); ?>
+			<!--
 			<ul class="menu">
 	  			<li><a href="/home" class="active"><span>Home</span></a></li>
 	 			<li><a href="/services"><span>Projectinfo</span></a></li>
@@ -20,4 +22,5 @@
 	  			<li><a href="/contact"><span>Sharing</span></a></li>
 	  			<li><a href="/contact"><span>Contact</span></a></li>
 			</ul>
+			-->
 		</nav>

@@ -7,8 +7,11 @@
 	<div id="wrapper">
 		<!--header-->
 		<header>
+			<!--Header-Text
 			<p id="header-text"><i>Internationaal project</i></p>
 			<span id="header-image"></span>
+			-->
+			<img src="<?php header_image(); ?>" alt="Header-Image" />
 		</header>
 		<!--nav-->
 		<nav>

@@ -11,3 +11,4 @@
 				- Project verlengd
 			</p>
 		</div>
+		<div class="clear-both"></div>

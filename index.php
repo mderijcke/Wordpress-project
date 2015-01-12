@@ -34,6 +34,7 @@
             <?php the_content(); ?>
 			</div>
 		</div>
+		<div class="clear-both"></div>
 			<!--
 			<p class="paragraph">
 				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sollicitudin dolor mauris, in tincidunt leo ultrices sit amet. Donec eu cursus ante, et aliquet elit. Maecenas dignissim convallis vestibulum. Fusce porta in dui in auctor. Suspendisse potenti. Nulla purus tellus, hendrerit id nisl sed, egestas condimentum urna. Praesent vel aliquam justo. Donec iaculis, mauris ac sollicitudin bibendum, nunc arcu tincidunt erat, et pretium arcu arcu interdum nibh.

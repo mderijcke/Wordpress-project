@@ -1,14 +1,8 @@
 		<!--Sidebar-->
-		<div id="sidebar"> 
-			<p id="sidebar-title">Laatste berichten</p>
-			<p id="sidebar-paragraph">
-				- Website online
-				<br>
-				- Nieuwe partner
-				<br>
-				- Seminar gepland
-				<br>
-				- Project verlengd
-			</p>
+		<div id="sidebar">
+
+			<?php if (function_exists('dynamic_sidebar')&& dynamic_sidebar()): else : ?>
+			<?php endif ?>
+
 		</div>
 		<div class="clear-both"></div>

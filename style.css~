@@ -1,11 +1,11 @@
 @font-face {
-    font-family: '/font/walkway_semiboldregular';
-    src: url('/font/walkway_semibold-webfont.eot');
-    src: url('/font/walkway_semibold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/font/walkway_semibold-webfont.woff2') format('woff2'),
-         url('/font/walkway_semibold-webfont.woff') format('woff'),
-         url('/font/walkway_semibold-webfont.ttf') format('truetype'),
-         url('/font/walkway_semibold-webfont.svg#/font/walkway_semiboldregular') format('svg');
+    font-family: 'font/walkway_semiboldregular';
+    src: url('font/walkway_semibold-webfont.eot');
+    src: url('font/walkway_semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/walkway_semibold-webfont.woff2') format('woff2'),
+         url('font/walkway_semibold-webfont.woff') format('woff'),
+         url('font/walkway_semibold-webfont.ttf') format('truetype'),
+         url('font/walkway_semibold-webfont.svg#font/walkway_semiboldregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -15,13 +15,13 @@
 
 
 @font-face {
-    font-family: '/font/walkway_oblique_semiboldRg';
-    src: url('/font/walkway_oblique_semibold-webfont.eot');
-    src: url('/font/walkway_oblique_semibold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/font/walkway_oblique_semibold-webfont.woff2') format('woff2'),
-         url('/font/walkway_oblique_semibold-webfont.woff') format('woff'),
-         url('/font/walkway_oblique_semibold-webfont.ttf') format('truetype'),
-         url('/font/walkway_oblique_semibold-webfont.svg#/font/walkway_oblique_semiboldRg') format('svg');
+    font-family: 'font/walkway_oblique_semiboldRg';
+    src: url('font/walkway_oblique_semibold-webfont.eot');
+    src: url('font/walkway_oblique_semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/walkway_oblique_semibold-webfont.woff2') format('woff2'),
+         url('font/walkway_oblique_semibold-webfont.woff') format('woff'),
+         url('font/walkway_oblique_semibold-webfont.ttf') format('truetype'),
+         url('font/walkway_oblique_semibold-webfont.svg#font/walkway_oblique_semiboldRg') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -31,13 +31,13 @@
 
 
 @font-face {
-    font-family: '/font/walkway_oblique_ultraboldRg';
-    src: url('/font/walkway_oblique_ultrabold-webfont.eot');
-    src: url('/font/walkway_oblique_ultrabold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/font/walkway_oblique_ultrabold-webfont.woff2') format('woff2'),
-         url('/font/walkway_oblique_ultrabold-webfont.woff') format('woff'),
-         url('/font/walkway_oblique_ultrabold-webfont.ttf') format('truetype'),
-         url('/font/walkway_oblique_ultrabold-webfont.svg#/font/walkway_oblique_ultraboldRg') format('svg');
+    font-family: 'font/walkway_oblique_ultraboldRg';
+    src: url('font/walkway_oblique_ultrabold-webfont.eot');
+    src: url('font/walkway_oblique_ultrabold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/walkway_oblique_ultrabold-webfont.woff2') format('woff2'),
+         url('font/walkway_oblique_ultrabold-webfont.woff') format('woff'),
+         url('font/walkway_oblique_ultrabold-webfont.ttf') format('truetype'),
+         url('font/walkway_oblique_ultrabold-webfont.svg#font/walkway_oblique_ultraboldRg') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -47,13 +47,13 @@
 
 
 @font-face {
-    font-family: '/font/walkway_oblique_boldregular';
-    src: url('/font/walkway_oblique_bold-webfont.eot');
-    src: url('/font/walkway_oblique_bold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/font/walkway_oblique_bold-webfont.woff2') format('woff2'),
-         url('/font/walkway_oblique_bold-webfont.woff') format('woff'),
-         url('/font/walkway_oblique_bold-webfont.ttf') format('truetype'),
-         url('/font/walkway_oblique_bold-webfont.svg#/font/walkway_oblique_boldregular') format('svg');
+    font-family: 'font/walkway_oblique_boldregular';
+    src: url('font/walkway_oblique_bold-webfont.eot');
+    src: url('font/walkway_oblique_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/walkway_oblique_bold-webfont.woff2') format('woff2'),
+         url('font/walkway_oblique_bold-webfont.woff') format('woff'),
+         url('font/walkway_oblique_bold-webfont.ttf') format('truetype'),
+         url('font/walkway_oblique_bold-webfont.svg#font/walkway_oblique_boldregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -63,13 +63,13 @@
 
 
 @font-face {
-    font-family: '/font/walkway_oblique_blackregular';
-    src: url('/font/walkway_oblique_black-webfont.eot');
-    src: url('/font/walkway_oblique_black-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/font/walkway_oblique_black-webfont.woff2') format('woff2'),
-         url('/font/walkway_oblique_black-webfont.woff') format('woff'),
-         url('/font/walkway_oblique_black-webfont.ttf') format('truetype'),
-         url('/font/walkway_oblique_black-webfont.svg#/font/walkway_oblique_blackregular') format('svg');
+    font-family: 'font/walkway_oblique_blackregular';
+    src: url('font/walkway_oblique_black-webfont.eot');
+    src: url('font/walkway_oblique_black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/walkway_oblique_black-webfont.woff2') format('woff2'),
+         url('font/walkway_oblique_black-webfont.woff') format('woff'),
+         url('font/walkway_oblique_black-webfont.ttf') format('truetype'),
+         url('font/walkway_oblique_black-webfont.svg#font/walkway_oblique_blackregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -79,13 +79,13 @@
 
 
 @font-face {
-    font-family: '/font/walkway_obliqueregular';
-    src: url('/font/walkway_oblique-webfont.eot');
-    src: url('/font/walkway_oblique-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/font/walkway_oblique-webfont.woff2') format('woff2'),
-         url('/font/walkway_oblique-webfont.woff') format('woff'),
-         url('/font/walkway_oblique-webfont.ttf') format('truetype'),
-         url('/font/walkway_oblique-webfont.svg#/font/walkway_obliqueregular') format('svg');
+    font-family: 'font/walkway_obliqueregular';
+    src: url('font/walkway_oblique-webfont.eot');
+    src: url('font/walkway_oblique-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/walkway_oblique-webfont.woff2') format('woff2'),
+         url('font/walkway_oblique-webfont.woff') format('woff'),
+         url('font/walkway_oblique-webfont.ttf') format('truetype'),
+         url('font/walkway_oblique-webfont.svg#font/walkway_obliqueregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -95,13 +95,13 @@
 
 
 @font-face {
-    font-family: '/font/walkway_boldregular';
-    src: url('/font/walkway_bold-webfont.eot');
-    src: url('/font/walkway_bold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/font/walkway_bold-webfont.woff2') format('woff2'),
-         url('/font/walkway_bold-webfont.woff') format('woff'),
-         url('/font/walkway_bold-webfont.ttf') format('truetype'),
-         url('/font/walkway_bold-webfont.svg#/font/walkway_boldregular') format('svg');
+    font-family: 'font/walkway_boldregular';
+    src: url('font/walkway_bold-webfont.eot');
+    src: url('font/walkway_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/walkway_bold-webfont.woff2') format('woff2'),
+         url('font/walkway_bold-webfont.woff') format('woff'),
+         url('font/walkway_bold-webfont.ttf') format('truetype'),
+         url('font/walkway_bold-webfont.svg#font/walkway_boldregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -111,13 +111,13 @@
 
 
 @font-face {
-    font-family: '/font/walkway_blackregular';
-    src: url('/font/walkway_black-webfont.eot');
-    src: url('/font/walkway_black-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/font/walkway_black-webfont.woff2') format('woff2'),
-         url('/font/walkway_black-webfont.woff') format('woff'),
-         url('/font/walkway_black-webfont.ttf') format('truetype'),
-         url('/font/walkway_black-webfont.svg#/font/walkway_blackregular') format('svg');
+    font-family: 'font/walkway_blackregular';
+    src: url('font/walkway_black-webfont.eot');
+    src: url('font/walkway_black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/walkway_black-webfont.woff2') format('woff2'),
+         url('font/walkway_black-webfont.woff') format('woff'),
+         url('font/walkway_black-webfont.ttf') format('truetype'),
+         url('font/walkway_black-webfont.svg#font/walkway_blackregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -127,13 +127,13 @@
 
 
 @font-face {
-    font-family: '/font/walkway_ultraboldregular';
-    src: url('/font/walkway_ultrabold-webfont.eot');
-    src: url('/font/walkway_ultrabold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/font/walkway_ultrabold-webfont.woff2') format('woff2'),
-         url('/font/walkway_ultrabold-webfont.woff') format('woff'),
-         url('/font/walkway_ultrabold-webfont.ttf') format('truetype'),
-         url('/font/walkway_ultrabold-webfont.svg#/font/walkway_ultraboldregular') format('svg');
+    font-family: 'font/walkway_ultraboldregular';
+    src: url('font/walkway_ultrabold-webfont.eot');
+    src: url('font/walkway_ultrabold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/walkway_ultrabold-webfont.woff2') format('woff2'),
+         url('font/walkway_ultrabold-webfont.woff') format('woff'),
+         url('font/walkway_ultrabold-webfont.ttf') format('truetype'),
+         url('font/walkway_ultrabold-webfont.svg#font/walkway_ultraboldregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -146,7 +146,7 @@ header {
 	background-color:#f0eb3c;
 	height: 146px;
 	margin-bottom:16px;
-	background: #F0EB3c url(wereld.png) no-repeat right center;
+	background: #F0EB3c url(img/wereld.png) no-repeat right center;
 }
 #header-text {
 	padding-top: 45px;
@@ -213,7 +213,7 @@ header {
 #sidebar {
 	margin-top: 24px;
 	width: 238px;
-	height: 618px;
+	height: auto;
 	background-color: #d0d0d0;
    float: right;
 }
